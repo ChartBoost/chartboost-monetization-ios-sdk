@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ChartboostSDK",
-            url: "https://chartboost.s3.amazonaws.com/sdk/9.14.0/Chartboost-iOS-9.14.0.zip",
-            checksum: "683ef4e7c32a88dad9f82c96ef2156150d4122c26df4b86987071aaf439a0774"
+            url: "https://chartboost.s3.amazonaws.com/sdk/9.14.1/Chartboost-iOS-9.14.1.zip",
+            checksum: "568d25486452f2a3b9a68ad6c9037f9e18ba16410ee311c180d8ad7d8b505456"
         ),
     ]
 )

@@ -1,6 +1,13 @@
 iOS Change Log
 ==============
 
+Version 9.14.1 *(2026-09-14)*
+---------------------
+Fixes:
+- Fixed an issue where SDK logging replaced the page's console object, which could prevent interactive ads that use other console methods from rendering.
+- Report bid token display dimensions according to the current interface orientation.
+- Fixed a sporadic crash that could occur when resuming video playback if SafeDK is present.
+
 Version 9.14.0 *(2026-08-20)*
 ---------------------
 Improvements:
