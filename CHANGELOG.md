@@ -1,6 +1,11 @@
 iOS Change Log
 ==============
 
+Version 9.14.2 *(2026-09-28)*
+---------------------
+Fixes:
+- Fixed an issue with the build system where debug assertions were not properly stripped out of the binary.
+
 Version 9.14.1 *(2026-09-14)*
 ---------------------
 Fixes:
